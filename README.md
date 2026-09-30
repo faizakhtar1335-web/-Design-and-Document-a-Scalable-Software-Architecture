@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Microservices Architecture
 
 Week 1 architecture assignment implementation.
@@ -53,3 +54,6 @@ git push -u origin main
 ## Important
 
 This is an educational prototype. It uses in-memory data and simulates payment processing. A production system should use a real database, secure authentication, password hashing, Redis, Kafka, a compliant payment provider, secrets management, logging, monitoring, tests, Docker, and deployment infrastructure.
+=======
+# -Design-and-Document-a-Scalable-Software-Architecture
+>>>>>>> 4d47eb1fd2391207e3e197ae70f9c8ba6ddf6dca
